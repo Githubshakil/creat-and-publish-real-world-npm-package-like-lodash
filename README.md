@@ -10,7 +10,7 @@ This project is an npm package similar to Lodash, providing utility functions fo
 To install the package, use npm:
 
 ```bash
-npm i x101-lodash-project
+npm i shakil01-npm-package-lodash
 ```
 
 ## Usage Example
