@@ -18,7 +18,7 @@ npm i x101-lodash-project
 Here is an example of how to use the package:
 
 ```javascript
-const {chunk} = require('shakil-npm-package-lodash');
+const {chunk} = require('shakil01-npm-package-lodash');
 
 // Example usage
 
@@ -29,7 +29,7 @@ console.log(chunk(numbers, size)); // Output: [[1, 2], [3, 4], [5]]
 ```
 
 ```math functionality
-const {add, multiply} = require('shakil-npm-package-lodash');
+const {add, multiply} = require('shakil01-npm-package-lodash');
 
 const sum = add(6,4) // output: 10
 const result = multiply(10, 12) // output: 120
