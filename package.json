@@ -4,18 +4,24 @@
   "description": "Project Backend Node Js project lodash, This is simple real world practical project like lodash",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Githubshakil/creat-and-publish-real-world-npm-package-like-lodash.git"
   },
-  "keywords": ["lodash","npm package"],
+  "keywords": [
+    "lodash",
+    "npm package"
+  ],
   "author": "Md Shakil Mahmud",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/Githubshakil/creat-and-publish-real-world-npm-package-like-lodash/issues"
   },
-  "homepage": "https://github.com/Githubshakil/creat-and-publish-real-world-npm-package-like-lodash#readme"
+  "homepage": "https://github.com/Githubshakil/creat-and-publish-real-world-npm-package-like-lodash#readme",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
 }
