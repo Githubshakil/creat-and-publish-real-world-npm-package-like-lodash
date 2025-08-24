@@ -1,6 +1,6 @@
 {
   "name": "shakil01-npm-package-lodash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Project Backend Node Js project lodash, This is simple real world practical project like lodash",
   "main": "./src/index.js",
   "scripts": {
@@ -14,9 +14,8 @@
     "lodash",
     "npm package"
   ],
-
   "bin": {
-    "shakil01-npm-package-lodash":"./src/index.js"
+    "shakil01-npm-package-lodash": "./src/index.js"
   },
   "author": "Md Shakil Mahmud",
   "license": "ISC",
