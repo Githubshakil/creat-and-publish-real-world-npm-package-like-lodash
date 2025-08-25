@@ -1,6 +1,6 @@
 {
   "name": "shakil01-npm-package-lodash",
-  "version": "1.0.1",
+  "version": "1.1.2",
   "description": "Project Backend Node Js project lodash, This is simple real world practical project like lodash",
   "main": "./src/index.js",
   "scripts": {
